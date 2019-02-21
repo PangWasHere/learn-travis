@@ -1,9 +1,6 @@
 language: node_js
 node_js:
  - "node"
- notifications:
-  email:
-   - fach340@ess.ais.ac.nz
 #env:
 #- MY_VAR=EverythignIsAwesome
 #- NODE_ENV=TEST
